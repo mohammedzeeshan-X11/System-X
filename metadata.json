@@ -1,0 +1,6 @@
+{
+  "name": "iGOT Karmayogi - MoSPI SkillIntel",
+  "description": "Institutional Competency Profiling, FRAC Gap Diagnostics & Learning Management System for MoSPI",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
